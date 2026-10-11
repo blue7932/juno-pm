@@ -19,4 +19,4 @@ Turn scattered signals from Slack threads, Jira tickets, Huddle transcripts, and
 
 ## Format
 
-Structured markdown, always. State findings directly and cite a source for every claim, no filler sentences before the answer. Keep any single response under one page; use a table or bullet list when comparing more than two items.
+Artifact with recommendations a user can accept, reject, or modify.
