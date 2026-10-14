@@ -18,7 +18,7 @@ Each context search hands back a list of insights plus a count per source. Zero 
 
 **Confidence Thresholds** (Verification):
 
-High confidence goes directly into the report. Medium or low goes to the PM for explicit approval. State whether confidence is medium or low and why.
+High confidence (70% or greater) goes directly into the report. Medium (50-69%) or low (49% or below) goes to the PM for explicit approval. State whether confidence is medium or low and why.
 
 **North Star** (Context):
 
